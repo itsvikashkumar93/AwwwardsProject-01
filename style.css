@@ -1,6 +1,6 @@
 @font-face {
     font-family: Monument;
-    src: url('/assets/fonts/MonumentExtended-Regular.otf');
+    src: url('./assets/fonts/MonumentExtended-Regular.otf');
 }
 
 * {
@@ -40,21 +40,21 @@ body::-webkit-scrollbar {
 }
 
 #one-img {
-    background-image: url('/assets/imgs/one.jpg');
+    background-image: url('./assets/imgs/one.jpg');
 }
 
 #two-img {
-    background-image: url('/assets/imgs/two.jpg');
+    background-image: url('./assets/imgs/two.jpg');
 }
 
 #three-img {
-    background-image: url('/assets/imgs/three.jpg');
+    background-image: url('./assets/imgs/three.jpg');
 }
 
 #four-img {
-    background-image: url('/assets/imgs/four.jpg');
+    background-image: url('./assets/imgs/four.jpg');
 }
 
 #five-img {
-    background-image: url('/assets/imgs/five.jpg');
+    background-image: url('./assets/imgs/five.jpg');
 }
